@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Aligado's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Aligado/JKAndroid/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+     我的目标：通过一年的努力拿到P7职级的offer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 我的Android博客目录
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
